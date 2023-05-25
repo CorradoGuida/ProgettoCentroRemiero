@@ -15,8 +15,8 @@ ul {
 }
 .nav__menu {
   float: left;
-  width: 237px;
-  height: 80px;
+  width: 210px;
+  height: 72px;
   line-height: 65px;
   text-transform: uppercase;
   background-color: rgb(65, 134, 236);
@@ -578,10 +578,10 @@ ul {
   
 }
 .nav__menu-items {
-  font-size: 14px;
+  font-size: 12px;
   text-align: center;
     display:none;
-  width: 238px;
+  width: 211.5px;
   height: 80px;
   background-color: rgb(0, 119, 255);
   
@@ -595,6 +595,7 @@ ul {
 .nav__menu:last-child {
   border-top-right-radius: 10px;
 }
+
 
 #items{
   display: flex;
