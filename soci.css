@@ -1,4 +1,11 @@
 * {padding: 0%;margin: 0%;}
+ 
+
+body{
+  background-image: url(https://static.wixstatic.com/media/76bff0_09cb1a771ced4213b08dcad3fd8aea9c~mv2.jpg/v1/fill/w_1903,h_969,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/76bff0_09cb1a771ced4213b08dcad3fd8aea9c~mv2.jpg);
+  
+}
+
 ul {
     list-style-type: none;
   }
@@ -595,4 +602,54 @@ ul {
   .nav__menu:last-child {
     border-top-right-radius: 10px;
   }
+
+  #soci{
+    text-align: justify;
+    margin-left: 500px;
+    margin-right: 500px;
+    font-size: 25px;
+    background-color: rgba(255, 255, 255,0.9);
+    border: 4px solid rgb(0, 110, 255);
+    border-bottom: rgba(255, 255, 255,0.9);
+    padding: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
   
+  .container {
+    margin-left: 500px;
+    position: absolute;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    color: #000000;
+    font-size: 18px;
+    background-color: rgba(255, 255, 255,0.9);
+    border: 4px solid rgb(0, 110, 255);
+    border-top: rgba(255, 255, 255,0.9);
+    border-bottom: rgba(255, 255, 255,0.9);
+    padding: 13px;
+  }
+
+  #canottieri{
+     margin-left: 1px;
+     font-size: 25px;
+  }
+  #canottieri2{
+    margin-left: 295px;
+    font-size: 25px;
+    
+  }
+  .canottieri3{
+    margin-top: 166px;
+    text-align: center;
+    font-size: 25px;
+    color:#000000;
+    background-color:  rgba(255, 255, 255,0.9);
+    margin-left: 500px;
+    margin-right: 500px;
+    border: 4px solid rgb(0, 110, 255);
+    border-top: rgba(255, 255, 255,0.9);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+ 
